@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - item
+  - stoptimer
+  - finish
+  - platfrom
+  - item1
+  - zzap
+  - prun
+  - pidle
+  - audio
+  - effectsscript
+  - free
+  - JumpBoost
+  - Lick
+  - buttonlasser
+  - Checkpoint
+  - lickplatform
+  - item2
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Post Processing
+  - traps
+  - Finish
+  - lickblock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: light
+    uniqueID: 2804450367
+    locked: 0
+  - name: Background
+    uniqueID: 596383285
+    locked: 0
+  - name: particles
+    uniqueID: 941141721
+    locked: 0
+  - name: wall
+    uniqueID: 709997717
+    locked: 0
+  - name: Trap
+    uniqueID: 3859654603
+    locked: 0
+  - name: line decor
+    uniqueID: 1626986757
+    locked: 0
+  - name: door
+    uniqueID: 1093694989
+    locked: 0
+  - name: longblock
+    uniqueID: 1081685257
+    locked: 0
+  - name: crystals
+    uniqueID: 645412157
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2564230191
+    locked: 0
+  - name: player
+    uniqueID: 1331602309
+    locked: 0
+  - name: chechk substance
+    uniqueID: 1663178975
+    locked: 0
+  - name: controll player
+    uniqueID: 1679020171
+    locked: 0
+  - name: ovveride sorting
+    uniqueID: 3892071505
+    locked: 0
+  - name: dead panel
+    uniqueID: 2501023123
+    locked: 0

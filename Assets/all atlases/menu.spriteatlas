@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8d43f079e3c01d446a044263f9db80b7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 38de2a301baf8444fb9b3364517641cf: 21300000
+    - 4f2585706f3da95488c0d35a5c13fa87: 21300000
+    - d7f9f9d048b01af4b9d77f4a53ba4b30: 21300000
+    - f4a608f0c94f95f498cb685c5d2de71a: 21300000
+    - d6131331884ff4a45bcf3f5364990b49: 21300000
+    - 43273d814561a9d4185774d0ea945b45: 21300000
+    - 8a2783c1167a3f343896f6be7ac5734f: 21300000
+    - dc0827023cb8ff9469b49037467d5e52: 21300000
+    - e8665bb2f08b1444f9982f1ec82643f0: 21300000
+    - 5c1b56e2123104742bacf1ed76f1a9ef: 21300000
+    - 9303c77364201ca4eacc2c28ecd571ad: 21300000
+    - 24725ba31ed7e804a9e935c5739ca63d: 21300000
+    - 7d014fd3ffe9c4b42b38fab219abbc72: 21300000
+    - 53ec8be5ad6a37648bc52792dc53d905: 21300000
+    - d0db2b66ea665814980c1fcc97c61883: 21300000
+    - 47772348f56e77e419437852d4ed3793: 21300000
+    - 929553589513bb147bf0a53a9ce613f4: 21300000
+    - aff4916873b0ecc40a1d0e68e4fece5d: 21300000
+    - 651cabc8af612f74c8a502d71ee84797: 21300000
+    - 4e567289eecb7b84da172707ed8d60c8: 21300000
+    - 2f3b49a9840a1fc449509c85c2e6c150: 21300000
+    - a5a413d9a8da15940a3523b00464432a: 21300000
+    - d44d262a85a90bf469cf1e60d9d5ce96: 21300000
+    - 15a4f35a6b2e3d84eb885fbecff1f64b: 21300000
+    - 4ce2227a07b0a1f4393d72e904a80452: 21300000
+    - eec12b3b6e4f5b34183510edd2b32338: 21300000
+    - 11eccf4b159774f4399d3b11d60d6fde: 21300000
+    - 2ee4cc1cdd34bd340ba5e4511cdf2e9b: 21300000
+    - f20a978c302cf814d8bbc3d97e17b08b: 21300000
+    - 7afcdabc16bcb3e4ba0b16ef66ea59ea: 21300000
+    - bc7918dcbe60b4f4484fd10755ad80b1: 21300000
+    - b110676e23f734f45a1410f5c776c0b7: 21300000
+    - ed46539e2b1072a4296e39986143e285: 21300000
+    - dc5f52fe870861e4e9a0b649e73dfc93: 21300000
+    - 8694de0f08afbea46ab3e7d7b77f3a78: 21300000
+    - cf48d1ef5709cff49b0b15cfab427372: 21300000
+    - 1027b2ff9d9934348afbf38c6ad1f377: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38de2a301baf8444fb9b3364517641cf, type: 3}
+  - {fileID: 21300000, guid: 4f2585706f3da95488c0d35a5c13fa87, type: 3}
+  - {fileID: 21300000, guid: d7f9f9d048b01af4b9d77f4a53ba4b30, type: 3}
+  - {fileID: 21300000, guid: f4a608f0c94f95f498cb685c5d2de71a, type: 3}
+  - {fileID: 21300000, guid: d6131331884ff4a45bcf3f5364990b49, type: 3}
+  - {fileID: 21300000, guid: 43273d814561a9d4185774d0ea945b45, type: 3}
+  - {fileID: 21300000, guid: 8a2783c1167a3f343896f6be7ac5734f, type: 3}
+  - {fileID: 21300000, guid: dc0827023cb8ff9469b49037467d5e52, type: 3}
+  - {fileID: 21300000, guid: e8665bb2f08b1444f9982f1ec82643f0, type: 3}
+  - {fileID: 21300000, guid: 5c1b56e2123104742bacf1ed76f1a9ef, type: 3}
+  - {fileID: 21300000, guid: 9303c77364201ca4eacc2c28ecd571ad, type: 3}
+  - {fileID: 21300000, guid: 24725ba31ed7e804a9e935c5739ca63d, type: 3}
+  - {fileID: 21300000, guid: 7d014fd3ffe9c4b42b38fab219abbc72, type: 3}
+  - {fileID: 21300000, guid: 53ec8be5ad6a37648bc52792dc53d905, type: 3}
+  - {fileID: 21300000, guid: d0db2b66ea665814980c1fcc97c61883, type: 3}
+  - {fileID: 21300000, guid: 47772348f56e77e419437852d4ed3793, type: 3}
+  - {fileID: 21300000, guid: 929553589513bb147bf0a53a9ce613f4, type: 3}
+  - {fileID: 21300000, guid: aff4916873b0ecc40a1d0e68e4fece5d, type: 3}
+  - {fileID: 21300000, guid: 651cabc8af612f74c8a502d71ee84797, type: 3}
+  - {fileID: 21300000, guid: 4e567289eecb7b84da172707ed8d60c8, type: 3}
+  - {fileID: 21300000, guid: 2f3b49a9840a1fc449509c85c2e6c150, type: 3}
+  - {fileID: 21300000, guid: a5a413d9a8da15940a3523b00464432a, type: 3}
+  - {fileID: 21300000, guid: d44d262a85a90bf469cf1e60d9d5ce96, type: 3}
+  - {fileID: 21300000, guid: 15a4f35a6b2e3d84eb885fbecff1f64b, type: 3}
+  - {fileID: 21300000, guid: 4ce2227a07b0a1f4393d72e904a80452, type: 3}
+  - {fileID: 21300000, guid: eec12b3b6e4f5b34183510edd2b32338, type: 3}
+  - {fileID: 21300000, guid: 11eccf4b159774f4399d3b11d60d6fde, type: 3}
+  - {fileID: 21300000, guid: 2ee4cc1cdd34bd340ba5e4511cdf2e9b, type: 3}
+  - {fileID: 21300000, guid: f20a978c302cf814d8bbc3d97e17b08b, type: 3}
+  - {fileID: 21300000, guid: 7afcdabc16bcb3e4ba0b16ef66ea59ea, type: 3}
+  - {fileID: 21300000, guid: bc7918dcbe60b4f4484fd10755ad80b1, type: 3}
+  - {fileID: 21300000, guid: b110676e23f734f45a1410f5c776c0b7, type: 3}
+  - {fileID: 21300000, guid: ed46539e2b1072a4296e39986143e285, type: 3}
+  - {fileID: 21300000, guid: dc5f52fe870861e4e9a0b649e73dfc93, type: 3}
+  - {fileID: 21300000, guid: 8694de0f08afbea46ab3e7d7b77f3a78, type: 3}
+  - {fileID: 21300000, guid: cf48d1ef5709cff49b0b15cfab427372, type: 3}
+  - {fileID: 21300000, guid: 1027b2ff9d9934348afbf38c6ad1f377, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u0431\u0430\u043A\u0441"
+  - lock
+  - checkoff
+  - BTN
+  - game_name-removebg-preview
+  - 5 (1)
+  - anim2
+  - twitterlogo
+  - injv
+  - levels
+  - v1
+  - 124341
+  - anim1
+  - board settings
+  - discord logo
+  - 1__1_-removebg-preview (1)
+  - button video
+  - matter 3
+  - v1.1
+  - instagram logo
+  - au
+  - mainback
+  - check (1)
+  - 5 1
+  - 2 (5)
+  - 21218381
+  - 3 (1)
+  - boardshop
+  - "\u0425"
+  - coinmattery
+  - inventory changer
+  - tileshop
+  - 3 1
+  - exit
+  - videowatch
+  - 4 2
+  - button
+  m_RenderDataMap: {}
+  m_Tag: menu
+  m_IsVariant: 0

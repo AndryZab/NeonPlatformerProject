@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pnggame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9a9a77996e0d2ef4abb780367e4a63f2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 34400732997adbb4aaadd177f300399e: 21300000
+    - 3024e7e2afc0ae6479c0d50b454601fe: 21300000
+    - b41eeaf26c5f26d408bda7ed8f203ff2: 21300000
+    - ad8ee8f578d2563488d1fb5996fc7325: 21300000
+    - a40034b6d7dd97c4daea53094a49d133: 21300000
+    - 4fb6e2d60043f30499ac2a02a3d6dc5d: 21300000
+    - b128474795f45c94792fcfa75b8f34b4: 21300000
+    - 3e4b4e38b267ec743a8088de5365ab19: 21300000
+    - d281b5a821246f6448db442f992b483b: 21300000
+    - 9efc0ad94467cd548a159c2abc11cf56: 21300000
+    - 2ec2231a439ecc840bd78fe689def7bc: 21300000
+    - c8e9f66b241fbc24eb4375f10e8830a7: 21300000
+    - 38323e5ce16e5bc429cbd53ba9d4ed2d: 21300000
+    - 1814156c0fd31bc4fbb6dd82615533ab: 21300000
+    - 98e680cc45325aa4b81583c2c64c8bd4: 21300000
+    - 737da20dc4e13d7449ccdfa638e6b563: 21300000
+    - efea10ed322ec3d4e89e939a4e5df9ca: 21300000
+    - 119a7f2e6f07d034aaec25adf9561897: 21300000
+    - 0d099f3fa399bcb43a05517d5336f873: 21300000
+    - d12cadaf93c250148a1129d18c6cf83d: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 34400732997adbb4aaadd177f300399e, type: 3}
+  - {fileID: 21300000, guid: 3024e7e2afc0ae6479c0d50b454601fe, type: 3}
+  - {fileID: 21300000, guid: b41eeaf26c5f26d408bda7ed8f203ff2, type: 3}
+  - {fileID: 21300000, guid: ad8ee8f578d2563488d1fb5996fc7325, type: 3}
+  - {fileID: 21300000, guid: a40034b6d7dd97c4daea53094a49d133, type: 3}
+  - {fileID: 21300000, guid: 4fb6e2d60043f30499ac2a02a3d6dc5d, type: 3}
+  - {fileID: 21300000, guid: b128474795f45c94792fcfa75b8f34b4, type: 3}
+  - {fileID: 21300000, guid: 3e4b4e38b267ec743a8088de5365ab19, type: 3}
+  - {fileID: 21300000, guid: d281b5a821246f6448db442f992b483b, type: 3}
+  - {fileID: 21300000, guid: 9efc0ad94467cd548a159c2abc11cf56, type: 3}
+  - {fileID: 21300000, guid: 2ec2231a439ecc840bd78fe689def7bc, type: 3}
+  - {fileID: 21300000, guid: c8e9f66b241fbc24eb4375f10e8830a7, type: 3}
+  - {fileID: 21300000, guid: 38323e5ce16e5bc429cbd53ba9d4ed2d, type: 3}
+  - {fileID: 21300000, guid: 1814156c0fd31bc4fbb6dd82615533ab, type: 3}
+  - {fileID: 21300000, guid: 98e680cc45325aa4b81583c2c64c8bd4, type: 3}
+  - {fileID: 21300000, guid: 737da20dc4e13d7449ccdfa638e6b563, type: 3}
+  - {fileID: 21300000, guid: efea10ed322ec3d4e89e939a4e5df9ca, type: 3}
+  - {fileID: 21300000, guid: 119a7f2e6f07d034aaec25adf9561897, type: 3}
+  - {fileID: 21300000, guid: 0d099f3fa399bcb43a05517d5336f873, type: 3}
+  - {fileID: 21300000, guid: d12cadaf93c250148a1129d18c6cf83d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - star1 (1)
+  - 5574022
+  - platform
+  - brokenplatform
+  - 2814
+  - platformmovedead
+  - sk2
+  - brokenSquare
+  - photo_2024-02-28_07-55-36
+  - 3162
+  - sk
+  - 4324414114
+  - photo_2024-02-28_07-55-38
+  - 2205_w026_n002_1983b_p1_1983
+  - sqrafr9ffb7idpdl257avlbgf1-92245fd9d4f1a7ef533bf428b54dec89
+  - 3155
+  - 2303.w030.n003.647B.p1.647
+  - exitcavern
+  - 3161
+  - stickyplatform
+  m_RenderDataMap: {}
+  m_Tag: pnggame
+  m_IsVariant: 0
